@@ -1,0 +1,28 @@
+{
+   "name": "@opsify/avatar",
+   "version": "1.0.2",
+   "description": "Generate AI-powered fake avatars for developers to use in their web applications. Easily retrieve unique and customizable avatar images to enhance user experience and add personality to your website.",
+   "main": "./dist/index.js",
+   "module": "./dist/index.mjs",
+   "types": "./dist/index.d.ts",
+   "scripts": {
+      "build": "tsup"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/sshuvoo/Oopsify.git"
+   },
+   "keywords": [
+      "fakeapi"
+   ],
+   "author": "youknowwho",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/sshuvoo/Oopsify/issues"
+   },
+   "homepage": "https://github.com/sshuvoo/Oopsify#readme",
+   "devDependencies": {
+      "tsup": "^8.0.2",
+      "typescript": "^5.4.5"
+   }
+}
